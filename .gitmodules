@@ -4,3 +4,15 @@
 [submodule "fonts/font-awesome"]
 	path = fonts/font-awesome
 	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "js/jquery-ui"]
+	path = js/jquery-ui
+	url = https://github.com/h5bp/html5-boilerplate.git
+[submodule "js/cycle"]
+	path = js/cycle
+	url = https://github.com/h5bp/html5-boilerplate.git
+[submodule "js/qtip"]
+	path = js/qtip
+	url = https://github.com/Craga89/qTip2.git
+[submodule "js/fancybox"]
+	path = js/fancybox
+	url = https://github.com/fancyapps/fancyBox.git
