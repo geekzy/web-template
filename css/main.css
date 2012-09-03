@@ -93,7 +93,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+/* GENERAL LAYOUT */
+#body-container {width:80%; margin:0 auto;}
 
 
 
