@@ -1,1 +1,0 @@
-<div style="font-size:90%;"><a href="#">Privacy Policy</a> / <a href="#">Terms of Service</a> / <a href="#">Contact Us</a></div>
