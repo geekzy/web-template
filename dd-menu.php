@@ -1,32 +1,103 @@
-<ul>
-        <li><a>About Us</a>
-            <ul>
-                <li><a href="dd-index.php">What we do</a></li>
-                <li><a href="dd-index.php">Our Facilitators</a>
-                  <ul>
-                  <li><a href="dd-index.php">Facilitator Profiles</a></li>
-                  </ul>
-                </li>
-                <li><a href="dd-index.php">Meet Our Clients</a></li>
-            </ul>
-        </li>
-        <li><a>Courses & Workshops</a>
-            <ul>
-                <li><a href="dd-index.php">Moodle Training</a>
-                  <ul>
-                  <li><a href="dd-index.php">What is Moodle?</a></li>
-                  <li><a href="dd-index.php">Register for your own Moodle classroom</a></li>
-                  </ul>
-                </li>
-                <li><a href="dd-index.php">E-Facilitation</a></li>
-                <li><a href="dd-index.php">Skills for rent</a></li>
-                <li><a href="dd-index.php">Customised workshops</a></li>
-            </ul>
-        <li><a href="dd-list2.php">FAQs</a></li>
-        <li><a href="dd-list.php">News</a></li>
-        <li><a href="dd-contact.php">Contact Us</a></li>
-        </li>
-        
-    </ul>
+        <ul id="sample-menu-1" class="sf-menu">
+					<li class="current">
+						<a href="#a">menu item</a>
+						<ul>
+							<li>
+								<a href="#aa">menu item</a>
+							</li>
+							<li class="current">
+								<a href="#ab">menu item</a>
+								<ul>
+									<li class="current"><a href="#">menu item</a></li>
+									<li><a href="#aba">menu item</a></li>
+									<li><a href="#abb">menu item</a></li>
+									<li><a href="#abc">menu item</a></li>
+									<li><a href="#abd">menu item</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">menu item</a>
+					</li>
+					<li>
+						<a href="#">menu item</a>
+						<ul>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">menu item</a>
+								<ul>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+									<li><a href="#">menu item</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">menu item</a>
+					</li>	
+				</ul>
     
     
