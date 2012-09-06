@@ -1,7 +1,6 @@
 /* Custom style overrides. */
 /*---Global styles---*/
-
-
+body {max-width:980px; margin:0 auto;}
 
 /*---Responsive design styles---*/
 /* Large desktop */
