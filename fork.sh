@@ -8,7 +8,7 @@ cd ..
 mkdir $project
 echo "Cloning..."
 sleep 1
-git clone https://github.com/daydreamgfx/web-template.git $project
+git clone --recursive https://github.com/daydreamgfx/web-template.git $project
 echo "Adding remote repo..."
 sleep 1
 cd $project
@@ -16,4 +16,8 @@ git remote add upstream https://github.com/daydreamgfx/web-template.git
 echo "Fetch from upstream (default-template repo)..."
 sleep 1
 git fetch upstream
+# echo "Fetching submodules from parent repo..."
+# http://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules for more information
+# sleep 1
+# git submodule update --init
 

@@ -8,3 +8,6 @@ git fetch upstream
 echo "Merging changes..."
 sleep 1
 git merge upstream/master
+echo "Fetching updates / new additions to submodules..."
+sleep 1
+git submodule update --init
