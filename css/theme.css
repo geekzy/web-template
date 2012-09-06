@@ -1,0 +1,17 @@
+/* Custom style overrides. */
+/*---Global styles---*/
+
+
+
+/*---Responsive design styles---*/
+/* Large desktop */
+@media (min-width: 1200px) { p {color:blue;} }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { p {color:red;} }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { p {color:green;} }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { p {color:orange;} }
