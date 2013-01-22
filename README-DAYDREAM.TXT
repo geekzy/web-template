@@ -14,6 +14,7 @@ WHEN UPDATING A PROJECT INDIVIDUALLY
 
 INFO ABOUT VARIOUS FILES:
 - index.html: The standard HTML5 Boilerplate index file. This will have code that will change as HTML5BP updates.
+- index-daydream-master.html - the starting point for template development. There are Jquery calls that pull in dummy content for testing, read the code in the file for more info.
 
 GO TO TEMP/NEW-TEMPLATE-CODE.TXT to insert custom DD template code into index.html.
 
