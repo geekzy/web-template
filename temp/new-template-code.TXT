@@ -1,47 +1,26 @@
-                <!DOCTYPE html>
-                       <!--start-HEADER.PHP-->  
-<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+INDEX.HTML:
 
-        <!--FRAMEWORK STYLESHEETS-->
-        <link rel="stylesheet" href="css/normalize.css">
+INSERT THIS AFTER LINE 16:
+--------------------------
+<!--FRAMEWORK STYLESHEETS-->
         <link rel="stylesheet" href="css/bootstrap/docs/assets/css/bootstrap.css">
         <link rel="stylesheet" href="css/bootstrap/docs/assets/css/bootstrap-responsive.css">
         <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css">
         <!--[if IE 7]> <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome-ie7.css"> <![endif]-->
         <!-- /!\ Menu System needed? Visit: \css\menu\standard -->
-        
-        <!--STYLE-CSS-->
-        <link rel="stylesheet" href="css/main.css"> 
+ 
         <!--THEME CSS - CUSTOM AUTHORED CSS-->
         <link rel="stylesheet" href="css/theme.css">  
         <!--WIREFRAME CSS (temporary)-->
         <link rel="stylesheet" href="css/wireframe.css">
         
-        <!--CUSTOM FONTS-->
+        <!--CUSTOM FONTS: UNCOMMENT AND MODIFY AS NEEDED-->
         <!-- <link rel="stylesheet" href="/fonts/xxxxxxxxxx/stylesheet.css" type="text/css" charset="utf-8"> -->
         
-        <!--SCRIPTS-->
-        <script src="js/vendor/modernizr-2.6.1.min.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-        <script>// window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-        <!-- /!\ Tooltip, carousel, popups needed? Visit: css\bootstrap\js -->
-        <!-- /!\ Need Jquery or other common Jquery plugins? Visit: \js -->
-        
-    </head>
-    <body>
+DUMMY TEXT AFTER <BODY> TAG:
+----------------------------
+
     <div id="body-container" class="container-fluid">
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an outdated browser, which can lead to display issues and security problems. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site as intended.</p>
@@ -544,15 +523,4 @@
         <!--end-CONTENT-->
         </div>
         </footer>
-        
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-            // var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-            // (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            // g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-            // s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
-        </div><!--body-container-->
-    </body>
-</html>
-<!--end-FOOTER.PHP-->
+    
