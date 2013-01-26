@@ -7,7 +7,6 @@ $('#load-test-html-data').load('temp/test-html.html', function() {
 });
 jQuery(document).ready(function ($) {
 $('#load-test-html-menu-data').load('temp/test-html-menu.html', function() {
-  alert('Dummy content inserted from temp/test-html.html!');
 });
 });
 
