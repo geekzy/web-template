@@ -10,3 +10,9 @@
 [submodule "js/fancybox"]
 	path = js/fancybox
 	url = https://github.com/fancyapps/fancyBox.git
+[submodule "js/jquery-ui"]
+	path = js/jquery-ui
+	url = https://github.com/jquery/jquery-ui.git
+[submodule "js/cycle"]
+	path = js/cycle
+	url = https://github.com/malsup/cycle.git
