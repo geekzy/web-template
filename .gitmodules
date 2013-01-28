@@ -7,6 +7,3 @@
 [submodule "css/bootstrap"]
 	path = css/bootstrap
 	url = https://github.com/twitter/bootstrap.git
-[submodule "css/font-awesome"]
-	path = css/font-awesome
-	url = https://github.com/FortAwesome/Font-Awesome.git
