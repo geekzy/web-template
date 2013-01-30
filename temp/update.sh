@@ -32,24 +32,6 @@ git pull
 cd ../..
 git add fonts/font-awesome
 
-echo Updating submodule: Cycle - /js/cycle
-sleep 1
-cd js/cycle
-git checkout master
-git status
-git pull
-cd ../..
-git add js/cycle
-
-echo Updating submodule: Fancybox - /js/fancybox
-sleep 1
-cd js/fancybox
-git checkout master
-git status
-git pull
-cd ../..
-git add js/fancybox
-
 echo Updating submodule: Jquery UI - /js/jquery-ui
 sleep 1
 cd js/jquery-ui
@@ -58,15 +40,6 @@ git status
 git pull
 cd ../..
 git add js/jquery-ui
-
-echo Updating submodule: QTip - /js/qtip
-sleep 1
-cd js/qtip
-git checkout master
-git status
-git pull
-cd ../..
-git add js/qtip
 
 echo Checking status of updates...
 sleep 1
