@@ -1,9 +1,6 @@
 [submodule "js/jquery-ui"]
 	path = js/jquery-ui
 	url = https://github.com/jquery/jquery-ui.git
-[submodule "js/cycle"]
-	path = js/cycle
-	url = https://github.com/malsup/cycle.git
 [submodule "css/bootstrap"]
 	path = css/bootstrap
 	url = https://github.com/twitter/bootstrap.git
