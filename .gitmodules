@@ -10,3 +10,6 @@
 [submodule "lib/js/respond"]
 	path = lib/js/respond
 	url = https://github.com/scottjehl/Respond.git
+[submodule "lib/js/lessjs"]
+	path = lib/js/lessjs
+	url = https://github.com/cloudhead/less.js.git
