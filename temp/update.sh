@@ -14,32 +14,32 @@ sleep 1
 git remote add html5b https://github.com/h5bp/html5-boilerplate.git
 git pull html5b master
 
-echo Updating submodule: Twitter Bootstrap CSS - /css/bootstrap
+echo Updating submodule: Twitter Bootstrap CSS - lib/css/bootstrap
 sleep 1
-cd css/bootstrap
+cd lib/css/bootstrap
 git checkout master
 git status
 git pull
-cd ../..
-git add css/bootstrap
+cd ../../..
+git add lib/css/bootstrap
 
-echo Updating submodule: FontAwesome - /fonts/font-awesome
+echo Updating submodule: FontAwesome - lib/fonts/font-awesome
 sleep 1
-cd fonts/font-awesome
+cd lib/fonts/font-awesome
 git checkout master
 git status
 git pull
-cd ../..
-git add fonts/font-awesome
+cd ../../..
+git add lib/fonts/font-awesome
 
-echo Updating submodule: Jquery UI - /js/jquery-ui
+echo Updating submodule: Jquery UI - lib/js/jquery-ui
 sleep 1
-cd js/jquery-ui
+cd lib/js/jquery-ui
 git checkout master
 git status
 git pull
-cd ../..
-git add js/jquery-ui
+cd ../../..
+git add lib/js/jquery-ui
 
 echo Checking status of updates...
 sleep 1
