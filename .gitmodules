@@ -7,3 +7,6 @@
 [submodule "lib/fonts/font-awesome"]
 	path = lib/fonts/font-awesome
 	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "lib/js/respond"]
+	path = lib/js/respond
+	url = https://github.com/scottjehl/Respond.git
