@@ -1,9 +1,9 @@
-[submodule "js/jquery-ui"]
-	path = js/jquery-ui
+[submodule "lib/js/jquery-ui"]
+	path = lib/js/jquery-ui
 	url = https://github.com/jquery/jquery-ui.git
-[submodule "css/bootstrap"]
-	path = css/bootstrap
+[submodule "lib/css/bootstrap"]
+	path = lib/css/bootstrap
 	url = https://github.com/twitter/bootstrap.git
-[submodule "fonts/font-awesome"]
-	path = fonts/font-awesome
+[submodule "lib/fonts/font-awesome"]
+	path = lib/fonts/font-awesome
 	url = https://github.com/FortAwesome/Font-Awesome.git
